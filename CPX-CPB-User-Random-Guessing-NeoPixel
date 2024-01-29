@@ -30,7 +30,7 @@ pseudocode:
    - Else, the user wins. print('You Win, I did not guess your
      number in', count, 'tries')
 
-Expected Output: (Posible... It's a Random Number)
+Expected Output: (Possible... It's a Random Number)
 
   Starting Code Challenge
   Enter an integer number from 1-10 > 5
